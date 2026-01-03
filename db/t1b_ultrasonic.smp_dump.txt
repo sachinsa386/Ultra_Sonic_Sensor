@@ -1,0 +1,6 @@
+
+State Machine - |t1b_ultrasonic|state
+Name state.IDLE state.WAIT_ECHO state.TRIG_HIGH 
+state.IDLE 0 0 0 
+state.TRIG_HIGH 1 0 1 
+state.WAIT_ECHO 1 1 0 
