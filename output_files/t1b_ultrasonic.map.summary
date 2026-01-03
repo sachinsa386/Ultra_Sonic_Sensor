@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Oct 18 20:24:47 2025
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : t1b_ultrasonic
+Top-level Entity Name : t1b_ultrasonic
+Family : Cyclone IV E
+Total logic elements : 870
+    Total combinational functions : 869
+    Dedicated logic registers : 83
+Total registers : 83
+Total pins : 21
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
